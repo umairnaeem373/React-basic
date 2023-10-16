@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-basic/static/css/main.3b88ca63.css",
+    "main.js": "/React-basic/static/js/main.ff89f5b2.js",
+    "static/js/787.ec78c698.chunk.js": "/React-basic/static/js/787.ec78c698.chunk.js",
+    "static/media/WhatsApp_Image_2023-09-21_at_12.20.41-removebg-preview.png": "/React-basic/static/media/WhatsApp_Image_2023-09-21_at_12.20.41-removebg-preview.845b29c2fe9accb84da3.png",
+    "index.html": "/React-basic/index.html",
+    "main.3b88ca63.css.map": "/React-basic/static/css/main.3b88ca63.css.map",
+    "main.ff89f5b2.js.map": "/React-basic/static/js/main.ff89f5b2.js.map",
+    "787.ec78c698.chunk.js.map": "/React-basic/static/js/787.ec78c698.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b88ca63.css",
+    "static/js/main.ff89f5b2.js"
+  ]
+}
