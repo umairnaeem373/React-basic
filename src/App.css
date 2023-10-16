@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .App-logo {
@@ -35,4 +37,67 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.nav-bar{
+  width: 100%;
+  height: 100px;
+  background-color: silver;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.d1{
+  width: 60%;
+  height: 60px;
+  background: gray;
+  border-radius:10px ;
+}
+
+.d1 ul{
+  display: flex;
+  justify-content: center;
+  gap:20px ;
+  list-style: none;
+  font-weight: bold;
+}
+
+ul>li:hover{
+  color: white;
+  cursor: pointer;
+}
+
+.aside{
+  width: 40%;
+  border:1px solid red ;
+}
+
+.main{
+  width: 59.5%;
+  height:500px ;
+  background-color: rosybrown;
+}
+
+.main{
+  font-size:50px ;
+}
+
+.main button{
+  width: 70px;
+  height: 50px;
+  color: aliceblue;
+  background: #000;
+  margin-left:20px ;
+  border:none ;
+  border-radius:5px; 
+  font-weight: bolder;
+  font-size:20px ;
+}
+
+.main button:hover{
+  color: #000;
+  background:aliceblue;
+  cursor: pointer;
 }
