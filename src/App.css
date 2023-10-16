@@ -71,8 +71,7 @@ ul>li:hover{
 
 .aside{
   width: 40%;
-  border:1px solid red ;
-}
+  /* border:1px solid red ; */
 
 .main{
   width: 59.5%;
